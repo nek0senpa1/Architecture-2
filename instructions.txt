@@ -1,0 +1,8 @@
+PUSH R0
+PUSH R1
+POP R2
+POP R1
+POP R1 <-- popping from an empty stack
+
+
+0b11111111 == 255 == 0xFF
